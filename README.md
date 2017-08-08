@@ -1,6 +1,9 @@
 PagSeguro-Codeigniter
 =====================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5e949c39811044498e07dbea3b4d7abb)](https://www.codacy.com/app/andrelotto/PagSeguro-Codeigniter?utm_source=github.com&utm_medium=referral&utm_content=andrelotto/PagSeguro-Codeigniter&utm_campaign=badger)
+
+
 Biblioteca de integração com PagSeguro para Codeigniter.
 
 <h2>Como utilizar</h2>
